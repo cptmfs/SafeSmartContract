@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "test",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"tests/TestSafeSmartContract.sol": "TestSafeSmartContract"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/SafeSmartContract.sol": {
+			"keccak256": "0x9896d6683cbc1bb9a09ef0f069cc4b3f91423f172721ddcee3ad647da8e5b6dd",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://4fa86e3daa61d669e836823f6318d6b991867b210f89aee8c7d5c8054ad1a1a4",
+				"dweb:/ipfs/QmezCnjPyFaqpq97pjTK49Aq6gyhquSLjtZrfgeAu8aTiM"
+			]
+		},
+		"tests/TestSafeSmartContract.sol": {
+			"keccak256": "0x7247a8e76c36f1d6f9684983fc0afa62a2f213806284b1fcd13e5c68b5baa13d",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://bb506886e2c233ad9ae4819ef6b89cefada7132de6685a8363ce27acc1cd1036",
+				"dweb:/ipfs/QmejUS785KeQG3kweTK8m5pXLVduo8UD2m1HActrQC9gQw"
+			]
+		}
+	},
+	"version": 1
+}
