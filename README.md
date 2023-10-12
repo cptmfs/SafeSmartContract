@@ -12,3 +12,4 @@ Each user has a separate compartment within the contract, allowing for individua
 * User Pods: Separate panes are created for each user in the contract to manage their tokens and rewards separately.
 * Security Measures: Security controls necessary to ensure that only the holder of the tokens can lock, unlock or query their compartment.
 
+![Screenshot_7](https://github.com/cptmfs/SafeSmartContract/assets/83764485/6a57692a-1900-4ab7-bb94-3548f9be9d2d)
