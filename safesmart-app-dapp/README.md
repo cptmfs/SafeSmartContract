@@ -1,3 +1,5 @@
+![Screenshot_7](https://github.com/cptmfs/SafeSmartContract/assets/83764485/f2b79dde-c9e7-4b2d-be91-f3cb975d62a7)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
